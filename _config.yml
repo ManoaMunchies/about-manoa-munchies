@@ -2,7 +2,9 @@ title: Manoa Munchies
 description: The Manoa Munchie app enables you to login on your phone and determine; what specific menu items will be available today at campus center locations, what food is available right now, and when a style of food you love is available today.
 google_analytics:
 show_downloads: false
-theme: minima
-
+remote_theme: pages-themes/minimal@v0.2.0
+github:
+  is_project_page: true
+  repository_url: https://github.com/ManoaMunchies/manoa-munchies.github.io
 gems:
   - jekyll-mentions
