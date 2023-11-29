@@ -30,23 +30,31 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ### User home page
 
-The user home page is similar to the landing page except there are several more options in the navbar. Two extra pages show up, that being the 'Foods available right now' and 'Today's top picks' pages.
+The user home page is similar to the landing page except there are several more options in the navbar. Two extra pages show up, that being the 'Foods available right now', 'Today's top picks', and 'My profile' pages.
 
 ![](images/aeUserHomePage.png)
 
-### Vendor home page
+### List vendor page
+
+This page has a collection of cards that display an image of potential food options, the name, location, and available times of each different vendor.
 
 ![](images/aeAdminListvendor.png)
 
 ### Admin home page
 
-![](images/aeUserHomePage.png)
+The admin home page is identical to the normal user home page except the admin has an additional page. The add vendor page is included in the navbar for only admins and vendors.
+
+![](images/aeAdminHomePage.png)
 
 ### Add Vendor page
+
+The add vendor page is a simple submit form where you can input the relevant information to create a new card on the list vendor page.
 
 ![](images/aeAdminAddvendor.png)
 
 ### User profile page
+
+The user profile page displays all the information pertaining to the user that is currently logged in. You may also edit the information on your page like name, bio, etc.
 
 ![](images/aeUserProfile.png)
 
@@ -54,7 +62,7 @@ The user home page is similar to the landing page except there are several more 
 
 /sample text/
 
-### Today's top pics page
+### Today's top picks page
 
 /sample text/
 
@@ -102,15 +110,15 @@ Link to our M1 Project page: [https://github.com/orgs/ManoaMunchies/projects/1](
 
 ### Milestone 2
 
-In milestone 2 we are going to focus on the more important and complex components of our project.
+In milestone 2 we are going to focus on the more important and complex components of our project. We added the ability to edit your user profile, list vendors, and add vendors.
 
 Link to our M2 Project page: [https://github.com/orgs/ManoaMunchies/projects/2](https://github.com/orgs/ManoaMunchies/projects/2)
 
 ### Milestone 3
 
-In milestone 3...
+In milestone 3 we will aim to finish up the last few pages, mainly the foods available right now and today's top picks page. As well as correctly enabling vendors to access the page and update their relevant information.
 
-Link to our M2 Project page:
+Link to our M3 Project page: [changeme](https://github.com/orgs/ManoaMunchies/projects/2)
 
 ## Contact Us
 
