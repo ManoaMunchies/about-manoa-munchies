@@ -46,6 +46,10 @@ Any admins have access to the admin panel which displays vendor information and 
 
 ![](images/aeAdminHomePage.png)
 
+Selecting "Edit Menu" for a vendor takes you to another page where you can edit, delete, or add a menu item for that specific vendor. 
+
+![](images/aeAdminEditMenu.png)
+
 ### Add Vendor page
 
 The add vendor page is a simple submit form where you can input the relevant information to create a new card on the list vendor page.
