@@ -48,7 +48,7 @@ Any admins have access to the admin panel which displays vendor information and 
 
 Selecting "Edit Menu" for a vendor takes you to another page where you can edit, delete, or add a menu item for that specific vendor. 
 
-![](images/aeAdminEditMenu.png)
+![](images/editmenu.png)
 
 ### Add Vendor page
 
