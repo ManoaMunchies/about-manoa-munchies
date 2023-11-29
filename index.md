@@ -106,6 +106,12 @@ In milestone 2 we are going to focus on the more important and complex component
 
 Link to our M2 Project page: [https://github.com/orgs/ManoaMunchies/projects/2](https://github.com/orgs/ManoaMunchies/projects/2)
 
+### Milestone 3
+
+In milestone 3...
+
+Link to our M2 Project page:
+
 ## Contact Us
 
 Our team name is Aloha Eats and our members consist of:
