@@ -116,11 +116,15 @@ Link to our M1 Project page: [https://github.com/orgs/ManoaMunchies/projects/1](
 
 In milestone 2 we focused on the more important and complex components of our project. We added the ability to edit your user profile, list vendors, and add vendors. Additionally, there is now a vendor home page and admin panel where these roles can manage relevant data.
 
+![](images/m2.png)
+
 Link to our M2 Project page: [https://github.com/orgs/ManoaMunchies/projects/3](https://github.com/orgs/ManoaMunchies/projects/3)
 
 ### Milestone 3
 
 In milestone 3 we will aim to finish up the last few pages, mainly the foods available right now and today's top picks page. As well as correctly enabling vendors to access the page and update their relevant information. We will also create a user preferences database collection so that users can filter vendors and menu items. When these functionalities are done, we will improve the UI and styling of the webpage, and potentially integrate twitter and maps.
+
+![](images/m3.png)
 
 Link to our M3 Project page: [https://github.com/orgs/ManoaMunchies/projects/6](https://github.com/orgs/ManoaMunchies/projects/6)
 
