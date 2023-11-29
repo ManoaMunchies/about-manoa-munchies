@@ -40,9 +40,9 @@ This page has a collection of cards that display an image of potential food opti
 
 ![](images/aeAdminListvendor.png)
 
-### Admin home page
+### Admin Panel
 
-The admin home page is identical to the normal user home page except the admin has an additional page. The add vendor page is included in the navbar for only admins and vendors.
+Any admins have access to the admin panel which displays vendor information and all active accounts. On this admin panel you can edit the vendor information or menu. You can also edit the role of any accounts, as well as remove them if desired. 
 
 ![](images/aeAdminHomePage.png)
 
@@ -112,13 +112,13 @@ Link to our M1 Project page: [https://github.com/orgs/ManoaMunchies/projects/1](
 
 In milestone 2 we are going to focus on the more important and complex components of our project. We added the ability to edit your user profile, list vendors, and add vendors.
 
-Link to our M2 Project page: [https://github.com/orgs/ManoaMunchies/projects/2](https://github.com/orgs/ManoaMunchies/projects/2)
+Link to our M2 Project page: [https://github.com/orgs/ManoaMunchies/projects/3](https://github.com/orgs/ManoaMunchies/projects/3)
 
 ### Milestone 3
 
 In milestone 3 we will aim to finish up the last few pages, mainly the foods available right now and today's top picks page. As well as correctly enabling vendors to access the page and update their relevant information.
 
-Link to our M3 Project page: [changeme](https://github.com/orgs/ManoaMunchies/projects/2)
+Link to our M3 Project page: [https://github.com/orgs/ManoaMunchies/projects/6](https://github.com/orgs/ManoaMunchies/projects/6)
 
 ## Contact Us
 
