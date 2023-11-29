@@ -36,19 +36,19 @@ The user home page is similar to the landing page except there are several more 
 
 ### Vendor home page
 
-/sample text/
+![](images/aeAdminListvendor.png)
 
 ### Admin home page
 
-/sample text/
+![](images/aeUserHomePage.png)
 
 ### Add Vendor page
 
-/sample text/
+![](images/aeAdminAddvendor.png)
 
 ### User profile page
 
-/sample text/
+![](images/aeUserProfile.png)
 
 ### Foods available right now page
 
