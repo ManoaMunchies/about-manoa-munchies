@@ -64,15 +64,13 @@ The user profile page displays all the information pertaining to the user that i
 
 ### Foods available right now page
 
-/sample text/
+This page displays all the food options that are available at the current time and date. You can also filter out the food options based on your preferences.
+![](images/aeAvailableNow.png)
 
 ### Today's top picks page
 
-/sample text/
-
-## Community Feedback
-
-/sample text/
+The top picks page shows the most popular food options based on reviews. Making the most popular food options more visible to users.
+![](images/aeTopPicks.png)
 
 ## Developer Guide
 
@@ -122,7 +120,7 @@ Link to our M2 Project page: [https://github.com/orgs/ManoaMunchies/projects/3](
 
 ### Milestone 3
 
-In milestone 3 we will aim to finish up the last few pages, mainly the foods available right now and today's top picks page. As well as correctly enabling vendors to access the page and update their relevant information. We will also create a user preferences database collection so that users can filter vendors and menu items. When these functionalities are done, we will improve the UI and styling of the webpage, and potentially integrate twitter and maps.
+In milestone 3 we will aim to finish up the last few pages, mainly the foods available right now and today's top picks page. As well as correctly enabling vendors to access the page and update their relevant information. We will also create a user preferences database collection so that users can filter vendors and menu items. When these functionalities are done, we will improve the UI and styling of the webpage, and integrate twitter and google maps.
 
 ![](images/m3.png)
 
