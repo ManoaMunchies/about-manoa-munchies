@@ -65,12 +65,32 @@ The user profile page displays all the information pertaining to the user that i
 ### Foods available right now page
 
 This page displays all the food options that are available at the current time and date. You can also filter out the food options based on your preferences.
+
 ![](images/aeAvailableNow.png)
 
 ### Today's top picks page
 
 The top picks page shows the most popular food options based on reviews. Making the most popular food options more visible to users.
+
 ![](images/aeTopPicks.png)
+
+## My Preferences page
+
+The my preferences page allows users to filter out food options based on their preferences. You can filter out food options based on the type of cuisine and any dietary restrictions one might have.
+
+![](images/aeMyPreferences.png)
+
+## List Vendors Page
+
+The list vendors page displays all the vendors that are currently registered on the site. You can click on any of the vendors to view their full menu or reviews that they have.
+
+![](images/aeVendorPage.png)
+
+## Food Items Page
+
+The food items page displays all the food items that are currently available from all vendors. There is table that has columns labeled name, cuisine type, vendor, and availability.
+
+![](images/aeFoodItems.png)
 
 ## Developer Guide
 
