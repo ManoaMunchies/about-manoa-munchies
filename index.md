@@ -28,17 +28,59 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ![](images/aeLandingPage.png)
 
-### User home page
+### User Profile page
 
-The user home page is similar to the landing page except there are several more options in the navbar. Two extra pages show up, that being the 'Foods available right now', 'Today's top picks', and 'My profile' pages.
+The user profile page displays all the information pertaining to the user that is currently logged in. You may also edit the information on your page like name, bio, etc.
 
-![](images/aeUserHomePage.png)
+![](images/aeUserProfilePage.png)
+
+## My Preferences page
+
+The my preferences page allows users to filter out food options based on their preferences. You can filter out food options based on the type of cuisine and any dietary restrictions one might have.
+
+![](images/aeMyPreferences.png)
+
+### Foods available right now page
+
+This page displays all the food options that are available at the current time and date. You can also filter out the food options based on your preferences.
+
+![](images/aeAvailableNow.png)
+
+## Vendor Map Location Page
+
+When you click on the 'See Location on Map' link on the foods available right now page, it will take you to the vendor map location page. This page displays the location of the vendor on a map. A pin is placed on the approximate location of the vendor, along with the google maps address.
+
+![](images/aeMapPage.png)
+
+### Today's top picks page
+
+The top picks page shows the most popular food options based on reviews. Making the most popular food options more visible to users.
+
+![](images/aeTopPicks.png)
 
 ### List vendor page
 
-This page has a collection of cards that display an image of potential food options, the name, location, and available times of each different vendor.
+This page has a collection of cards that display an image of potential food options, the name, location, and available times of each different vendor. You can click on any of the vendors to view their full menu, map location, or reviews that they have.
 
-![](images/aeAdminListvendor.png)
+![](images/aeListVendor.png)
+
+## Food Items Page
+
+The food items page displays all the food items that are currently available from all vendors. There is table that has columns labeled name, cuisine type, vendor, and availability.
+
+![](images/aeFoodItems.png)
+
+## Vendor Home Page
+
+The vendor home page is where vendors can edit their information and menu, as well as see their reviews.
+
+![](images/aeVendorHomePage.png)
+
+## Vendor Menu Page
+
+The vendor menu page displays all the food items that are currently available from that specific vendor. It contains a picture and relevant information to each menu item. You can also add, edit, or delete any of the new or existing menu items.
+
+![](images/aeVendorMenuPage.png)
 
 ### Admin Panel
 
@@ -50,47 +92,7 @@ Selecting "Edit Menu" for a vendor takes you to another page where you can edit,
 
 ![](images/editmenu.png)
 
-### Add Vendor page
-
-The add vendor page is a simple submit form where you can input the relevant information to create a new card on the list vendor page.
-
-![](images/aeAdminAddvendor.png)
-
-### User profile page
-
-The user profile page displays all the information pertaining to the user that is currently logged in. You may also edit the information on your page like name, bio, etc.
-
-![](images/aeUserProfile.png)
-
-### Foods available right now page
-
-This page displays all the food options that are available at the current time and date. You can also filter out the food options based on your preferences.
-
-![](images/aeAvailableNow.png)
-
-### Today's top picks page
-
-The top picks page shows the most popular food options based on reviews. Making the most popular food options more visible to users.
-
-![](images/aeTopPicks.png)
-
-## My Preferences page
-
-The my preferences page allows users to filter out food options based on their preferences. You can filter out food options based on the type of cuisine and any dietary restrictions one might have.
-
-![](images/aeMyPreferences.png)
-
-## List Vendors Page
-
-The list vendors page displays all the vendors that are currently registered on the site. You can click on any of the vendors to view their full menu or reviews that they have.
-
-![](images/aeVendorPage.png)
-
-## Food Items Page
-
-The food items page displays all the food items that are currently available from all vendors. There is table that has columns labeled name, cuisine type, vendor, and availability.
-
-![](images/aeFoodItems.png)
+## Community Feedback
 
 ## Developer Guide
 
