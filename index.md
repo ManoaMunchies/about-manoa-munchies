@@ -132,6 +132,8 @@ In milestone 1 we primarily focused on creating the landing page and making mock
 
 Link to our M1 Project page: [https://github.com/orgs/ManoaMunchies/projects/1](https://github.com/orgs/ManoaMunchies/projects/1)
 
+![](images/m1.png)
+
 ### Milestone 2
 
 In milestone 2 we focused on the more important and complex components of our project. We added the ability to edit your user profile, list vendors, and add vendors. Additionally, there is now a vendor home page and admin panel where these roles can manage relevant data.
